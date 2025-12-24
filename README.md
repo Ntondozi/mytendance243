@@ -1,21 +1,67 @@
-<<<<<<< HEAD
-# tendance
+# 🛍️ MyTendance 243 – Marketplace Mobile & Web
 
-A new Flutter project.
+**MyTendance 243** est une application de type marketplace permettant l’achat et la vente d’articles neufs et d’occasion.  
+La plateforme offre à chaque vendeur une vitrine personnalisée, comparable à un mini site e-commerce intégré.
 
-## Getting Started
+🌍 **Projet pensé pour le marché africain**, avec une navigation fluide, une expérience utilisateur moderne et une architecture scalable.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Fonctionnalités principales
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔐 Création de compte et authentification sécurisée
+- 🛒 Publication et gestion d’articles
+- 🔎 Recherche par catégories
+- 🧑‍💼 Pages vendeurs personnalisées
+- 📱 Application mobile performante (Flutter)
+- ☁️ Backend et services cloud via Firebase
+- 🎨 Interface moderne et UX optimisée
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# mytendance243_marketplace
-Application mobile de type marketplace développée avec Flutter.
->>>>>>> 73381f74a470a9d0a012eae5465f5b6d88d22b14
+---
+
+## 🧰 Technologies utilisées
+
+### Frontend
+- **Flutter**
+- **Dart**
+- **GetX** (state management)
+- UI/UX personnalisé
+
+### Backend & Services
+- **Firebase Authentication**
+- **Cloud Firestore**
+- **Firebase Storage**
+- **Firebase Hosting** (version web)
+
+---
+
+## 👨‍💻 Rôle dans le projet
+
+**Développeur Mobile Flutter**
+
+- Conception et développement complet de l’application
+- Implémentation des fonctionnalités métier
+- Intégration Firebase (authentification, base de données, stockage)
+- Optimisation des performances et de l’expérience utilisateur
+
+---
+
+## 🌐 Démo en ligne
+
+🔗 **Version web :**  
+👉 https://mytendance243.web.app
+
+---
+
+## 📸 Aperçu (optionnel)
+*(Ajoute ici des captures d’écran de l’application mobile et web)*
+
+---
+
+## 📦 Installation (développeurs)
+
+```bash
+git clone https://github.com/Ntondozi/mytendance243_marketplace.git
+cd mytendance243_marketplace
+flutter pub get
+flutter run
