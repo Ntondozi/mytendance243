@@ -53,10 +53,11 @@ La plateforme offre à chaque vendeur une vitrine personnalisée, comparable à 
 
 ---
 
-## 📸 Aperçu (optionnel)
-*(Ajoute ici des captures d’écran de l’application mobile et web)*
+## 📸 Aperçu 
 
----
+
+<img width="1024" height="683" alt="439513" src="https://github.com/user-attachments/assets/5502177b-0015-4d37-b8db-2c708fcbff26" />
+
 
 ## 📦 Installation (développeurs)
 
